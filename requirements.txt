@@ -1,0 +1,5 @@
+nextcord
+jsonpickle
+pymongo
+requests
+pymongo[srv]
